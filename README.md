@@ -1,2 +1,2 @@
 # Inmersi-n-
-Vídeo juego de realidad virtual 
+Vídeojuego de realidad virtual 
